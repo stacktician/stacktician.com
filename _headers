@@ -1,7 +1,7 @@
 /*
   ! Access-Control-Allow-Origin
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
-  Content-Security-Policy: default-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'; img-src 'self' data:; font-src 'self'; style-src 'self' 'unsafe-inline'; script-src 'sha256-ilJJoAlTOsbfr1HiGC9fgEBaFlkqWcBA23oPobJprU4=' 'sha256-hHUl6LMddA7tYzcGms1ByevZnvKLI9ojZcnZv0XehvQ='; connect-src 'none'; object-src 'none'; upgrade-insecure-requests
+  Content-Security-Policy: default-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'; img-src 'self' data:; font-src 'self'; style-src 'self' 'unsafe-inline'; script-src 'sha256-ilJJoAlTOsbfr1HiGC9fgEBaFlkqWcBA23oPobJprU4=' 'sha256-hHUl6LMddA7tYzcGms1ByevZnvKLI9ojZcnZv0XehvQ='; connect-src 'none'; object-src 'none'; require-trusted-types-for 'script'; upgrade-insecure-requests
   X-Content-Type-Options: nosniff
   X-Frame-Options: DENY
   Referrer-Policy: strict-origin-when-cross-origin
