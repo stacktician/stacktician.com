@@ -1,3 +1,3 @@
 # Cloudflare Pages redirects, one per line: source destination status
-# www -> apex is a zone Redirect Rule, not a line here. Add short links below as needed, e.g.
-# /github https://github.com/stacktician 302
+# www -> apex is a zone Redirect Rule in Cloudflare, not a line here.
+/github https://github.com/stacktician 302
